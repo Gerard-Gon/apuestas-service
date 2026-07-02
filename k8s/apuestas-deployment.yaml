@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: apuestas
-        image: 914091100375.dkr.ecr.us-east-1.amazonaws.com/apuestas-service:latest
+        image: 994995081324.dkr.ecr.us-east-1.amazonaws.com/casino/apuestas-service:latest
         resources:
           requests:
             cpu: "100m"
